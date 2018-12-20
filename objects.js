@@ -1,5 +1,5 @@
 
 var playlist = {
-  swizz beatz: 'Poison',
+  swizzBeatz: 'Poison',
   nas: 'Hate Me Now'
 }
